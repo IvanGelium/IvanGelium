@@ -1,4 +1,4 @@
-# Hi there! I'm [Ваше Имя] 👋
+# Hi there! I'm Leonid Shkurchenko 👋
 **Frontend Developer | QA Engineer**
 
 I started my tech journey with 5 years in customer support, building a deep empathy for user experience. For the last 2 years, I have been working in engineering: starting with QA and evolving into Frontend development, where I build robust web applications.
